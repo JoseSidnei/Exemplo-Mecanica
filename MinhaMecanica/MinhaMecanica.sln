@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{85F2D2FA-5427-45AD-A640-4B47FE39E729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA", "WFA\WFA.csproj", "{DCED0ED5-67F9-45F5-BAFE-E4A799A4520F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85F2D2FA-5427-45AD-A640-4B47FE39E729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F2D2FA-5427-45AD-A640-4B47FE39E729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F2D2FA-5427-45AD-A640-4B47FE39E729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F2D2FA-5427-45AD-A640-4B47FE39E729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCED0ED5-67F9-45F5-BAFE-E4A799A4520F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCED0ED5-67F9-45F5-BAFE-E4A799A4520F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCED0ED5-67F9-45F5-BAFE-E4A799A4520F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCED0ED5-67F9-45F5-BAFE-E4A799A4520F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
